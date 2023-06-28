@@ -5,6 +5,7 @@ import eventsImage from './assets/images/events.png';
 import Elements from './components/Elements/Elements';
 import Header from './components/Elements/Header';
 
+
 const concepts = [
   {
     title: 'Components',
